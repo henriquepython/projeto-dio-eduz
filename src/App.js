@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Main from './components/Main'
 
-function App() {
+const App = () => {
   return (
     <Main />
   );
