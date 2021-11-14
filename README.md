@@ -1,3 +1,10 @@
+#Lista de tarefas
+
+Projeto realizado em React para conclusão de atividade no bootcamp Eduzz
+
+Nesse projeto foi desenvolvido uma lista de tarefa que realiza a criação, edição, exclusão e atualização (CRUD) de tarefas, listando as mesmas e salvando no local storage. Tambem foi feito a estilização da pagina utilizando CSS, A componentização de partes do projeto, e uso de alguns ciclos de vida do react.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
